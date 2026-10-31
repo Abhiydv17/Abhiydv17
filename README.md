@@ -1,4 +1,4 @@
-# 👨‍💻 ABHISHEK YADAV | THE DEVELOPER SERIES
+# 👨‍💻 ABHISHEK YADAV | THE DEVELOPER 
 
 ### Turning ideas into code, one project at a time.
 
